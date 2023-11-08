@@ -8,7 +8,7 @@ This scene shows you:
 - How to play sounds from files
 - How to change the material of a primitive shape
 - How to use the trigger area from the Utils library to activate something when a player walks over it
-- How to keey players synced by using the messagebus to communicate each player's actions to others
+- How to keep players synced by using the messagebus to communicate each player's actions to others
 - How to use the pitch value of audioclips to create different musical notes
 
 ## Try it out
